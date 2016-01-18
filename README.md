@@ -7,15 +7,15 @@ This is the No-OPeration adapter for Hubot that not intract chat interface.
 
 This will give us the hubot yeoman generator. Now we can make a new directory, and generate a new instance of hubot in it, using this Hubot Nop adapter. For example, if we wanted to make a bot called myhubot:
 
-* $ mkdir myhubot
-* $ cd myhubot
-* $ yo hubot --adapter nop
+  $ mkdir myhubot
+  $ cd myhubot
+  $ yo hubot --adapter nop
 
 ## Usage
 
 Run Hubot with the following command:
 
-* $ bin/hubot -adapter nop
+  $ bin/hubot -adapter nop
 
 ### Configuration
 
