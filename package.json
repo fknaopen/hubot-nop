@@ -1,0 +1,21 @@
+{
+  "name": "hubot-nop",
+  "version": "0.1.0",
+  "description": "A hubot no-operation adapter",
+  "main": "src/nop.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parent-require": "^1.0.0"
+  },
+  "peerDependencies": {
+    "hubot": ">=2.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.2.0"
+  },
+  "repository": "",
+  "author": "Fukuoka Naohisa <fknaopen@gmail.com>",
+  "license": "MIT"
+}
