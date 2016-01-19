@@ -1,11 +1,23 @@
 {
   "name": "hubot-nop",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A hubot no-operation adapter",
   "main": "src/nop.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "hubot",
+    "adapter",
+    "nop",
+    "null",
+    "empty",
+    "no-operation",
+    "non-interactive",
+    "headless",
+    "chat-less",
+    "ui-less"
+  ],
   "dependencies": {
     "parent-require": "^1.0.0"
   },

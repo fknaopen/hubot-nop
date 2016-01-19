@@ -1,6 +1,6 @@
 # Hubot-nop Adapter
 
-This is the No-OPeration adapter for Hubot that not intract chat interface.
+This is the No-OPeration adapter for Hubot that not interact chat interface.
 "Even such a case, I'd like to use the Hubot. :-)"
 
 ## Installation
