@@ -7,9 +7,9 @@ catch
   prequire = require('parent-require')
   {Robot,Adapter} = prequire 'hubot'
 
-class Null extends Adapter
+class NoOperation extends Adapter
   run: ->
     @emit "connected"
 
 exports.use = (robot) ->
-  new Null robot
+  new NoOperation robot
